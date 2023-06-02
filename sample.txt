@@ -1,1 +1,5 @@
-hello Naga
+hello Guys,
+
+This Branch is created to keep track my progress regarding Kaggle.
+
+Thanks.
